@@ -3,4 +3,4 @@
     alias msfc='sudo ~/.config/scripts/msfc.sh'
     alias rrouter='sudo ~/.config/scripts/rrouter.sh'
     alias firefox-temp='~/.config/scripts/fxtemp.sh'
-    alias nmaps='~/.config/scripts/nmp.sh'
+    alias nmp='~/.config/scripts/nmp.sh'
