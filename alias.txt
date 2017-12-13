@@ -1,0 +1,6 @@
+    alias netc='sudo ~/.config/scripts/netc.sh'
+    alias apuf='sudo ~/.config/scripts/apuf.sh'
+    alias msfc='sudo ~/.config/scripts/msfc.sh'
+    alias rrouter='sudo ~/.config/scripts/rrouter.sh'
+    alias firefox-temp='~/.config/scripts/fxtemp.sh'
+    alias nmaps='~/.config/scripts/nmp.sh'
